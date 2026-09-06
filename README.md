@@ -18,7 +18,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <em>Some things I've built and worked on </em>
+  <em>Some things I've built and worked on</em>
 </p><table>
   <tr>
     <td align="center" width="33%">
@@ -27,16 +27,20 @@
       </a>
       <br><br>
       <strong>Zoology GraphRAG</strong>
+      <br>
+      <em>Graph-based RAG system combining knowledge graphs, retrieval and AI agents.</em>
       <br><br>
       <a href="https://github.com/pfolgueira/Zoology-GraphRAG">GitHub Repository ↗</a>
       <br>
       <a href="https://zoology-graph-rag.vercel.app/">Live Demo ↗</a>
     </td><td align="center" width="33%">
   <a href="https://github.com/NILGroup/TFM2526-ExamenesComprensionLectora">
-    <img src="https://raw.githubusercontent.com/pfolgueira/portfolio/src/assets/profe-2026.png  " alt="Reading Comprehension with LLMs" width="100%">
+    <img src="https://raw.githubusercontent.com/pfolgueira/portfolio/src/assets/profe-2026.png" alt="Reading Comprehension with LLMs" width="100%">
   </a>
   <br><br>
   <strong>Reading Comprehension with LLMs</strong>
+  <br>
+  <em>Automatic solving of Spanish reading-comprehension exams using LLMs.</em>
   <br><br>
   <a href="https://github.com/NILGroup/TFM2526-ExamenesComprensionLectora">GitHub Repository ↗</a>
 </td>
@@ -47,6 +51,8 @@
   </a>
   <br><br>
   <strong>Art-RAG</strong>
+  <br>
+  <em>Multimodal semantic search system for artwork exploration.</em>
   <br><br>
   <a href="https://github.com/pfolgueira/rag-multimodal-arte">GitHub Repository ↗</a>
   <br>
@@ -54,4 +60,8 @@
 </td>
 
   </tr>
-</table>
+</table><br><p align="center">
+  <em>Explore more projects in my repositories</em>
+  <br>
+  <span style="font-size: 20px;">↓</span>
+</p>
