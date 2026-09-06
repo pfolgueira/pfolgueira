@@ -1,32 +1,16 @@
-# Hey, I'm Pablo 👋
-
-**Computer Scientist specialized in AI.**
-Building AI systems, breaking them, and learning why.
-
-I'm a Computer Scientist with a Master's degree in Artificial Intelligence, focused on **NLP, LLMs, and AI systems**. I enjoy turning ideas into things that actually work — beyond the notebook.
-
-### 🌐 Find me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-pfolgueira.vercel.app-black?style=flat\&logo=vercel\&logoColor=white)](https://pfolgueira.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Folgueira-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pablo-folgueira/)
-[![GitHub](https://img.shields.io/badge/GitHub-pfolgueira-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/pfolgueira)
-
-### 🚀 Featured Projects
-
-**[Art-RAG](https://github.com/pfolgueira/rag-multimodal-arte)**
-Multimodal RAG system for semantic search of artworks using natural-language descriptions.
-
-**[Zoology GraphRAG](https://github.com/pfolgueira/zoology-graph-rag)**
-GraphRAG system combining Neo4j, hybrid retrieval, and multi-step AI agents.
-
-**[Scientific Text Simplification](https://github.com/pfolgueira/mas-scientific-text-simplification)**
-Multi-agent system for simplifying scientific and medical texts while preserving factual accuracy.
-
-**[LLM Reading Comprehension](https://github.com/pfolgueira/TFM)**
-Master's thesis exploring LLM comprehension through prompting, fine-tuning, and multi-agent approaches.
-
-### 📊 GitHub Stats
-
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfolgueira\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfolgueira\&layout=compact\&hide_border=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Hi%2C%20I%27m%20Pablo%20%F0%9F%91%8B&fontSize=38&fontColor=00ff88&fontAlignY=55&color=0:0d1117,100:003b20" width="100%">
+</p><p align="center">
+  I’m a Computer Scientist specialized in Artificial Intelligence, with a strong software engineering background and hands-on experience building AI systems.
+</p><p align="center">
+  Curious about what I do? Have a look at my
+  <a href="https://pfolgueira.vercel.app/">portfolio</a>,
+  or find me on
+  <a href="https://www.linkedin.com/in/pablo-folgueira">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="22" height="22" valign="middle">
+  </a>
+  and
+  <a href="https://github.com/pfolgueira">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="22" height="22" valign="middle">
+  </a>.
+</p>
