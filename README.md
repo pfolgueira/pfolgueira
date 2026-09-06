@@ -14,3 +14,44 @@
     <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="22" height="22" valign="middle">
   </a>.
 </p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <em>Some things I've built and worked on </em>
+</p><table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://zoology-graph-rag.vercel.app/">
+        <img src="https://raw.githubusercontent.com/pfolgueira/Zoology-GraphRAG/main/docs/demo.png" alt="Zoology GraphRAG" width="100%">
+      </a>
+      <br><br>
+      <strong>Zoology GraphRAG</strong>
+      <br><br>
+      <a href="https://github.com/pfolgueira/Zoology-GraphRAG">GitHub Repository ↗</a>
+      <br>
+      <a href="https://zoology-graph-rag.vercel.app/">Live Demo ↗</a>
+    </td><td align="center" width="33%">
+  <a href="https://github.com/NILGroup/TFM2526-ExamenesComprensionLectora">
+    <img src="https://raw.githubusercontent.com/pfolgueira/portfolio/src/assets/profe-2026.png  " alt="Reading Comprehension with LLMs" width="100%">
+  </a>
+  <br><br>
+  <strong>Reading Comprehension with LLMs</strong>
+  <br><br>
+  <a href="https://github.com/NILGroup/TFM2526-ExamenesComprensionLectora">GitHub Repository ↗</a>
+</td>
+
+<td align="center" width="33%">
+  <a href="https://rag-multimodal-arte.vercel.app/">
+    <img src="https://raw.githubusercontent.com/pfolgueira/rag-multimodal-arte/main/imgs/interface_example.png" alt="Art-RAG" width="100%">
+  </a>
+  <br><br>
+  <strong>Art-RAG</strong>
+  <br><br>
+  <a href="https://github.com/pfolgueira/rag-multimodal-arte">GitHub Repository ↗</a>
+  <br>
+  <a href="https://rag-multimodal-arte.vercel.app/">Live Demo ↗</a>
+</td>
+
+  </tr>
+</table>
