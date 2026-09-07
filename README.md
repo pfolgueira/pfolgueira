@@ -35,7 +35,7 @@
       <a href="https://zoology-graph-rag.vercel.app/">Live Demo ↗</a>
     </td><td align="center" width="33%">
   <a href="https://github.com/NILGroup/TFM2526-ExamenesComprensionLectora">
-    <img src="https://raw.githubusercontent.com/pfolgueira/portfolio/src/assets/profe-2026.png" alt="Reading Comprehension with LLMs" width="100%">
+    <img src="./profe-2026.png" alt="Reading Comprehension with LLMs" width="100%">
   </a>
   <br><br>
   <strong>Reading Comprehension with LLMs</strong>
