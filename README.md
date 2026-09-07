@@ -65,3 +65,9 @@
   <br>
   <span style="font-size: 20px;">↓</span>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pfolgueira&theme=github_dark" height="180">
+</p>
